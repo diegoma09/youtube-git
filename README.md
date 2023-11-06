@@ -9,5 +9,6 @@
 7- git commit --amend "me va a arreglar el último commit"
 8- git checkout -b nombre-de-la-rama
 9- git branch "comando para ver las ramas"
+10- git checkout master "para pasarme a la rama master en este caso"
 
 
