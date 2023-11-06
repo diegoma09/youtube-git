@@ -8,5 +8,6 @@
 6- git log  "me da un historial de los commit realizados"
 7- git commit --amend "me va a arreglar el último commit"
 8- git checkout -b nombre-de-la-rama
+9- git branch "comando para ver las ramas"
 
 
